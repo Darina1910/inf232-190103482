@@ -1,1 +1,1 @@
-< ?php echo "my name is Darina"; ? >
+< ?php echo "hello, world!"; ? >
